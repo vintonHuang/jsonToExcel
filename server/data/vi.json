@@ -1,0 +1,15 @@
+{
+  "Migration": "Mã đồng bộ",
+  "instructions": "Hướng dẫn sử dụng:",
+  "sectionOne": "1. Để sử dụng mã đồng bộ bạn cần thao tác trên phiên bản client mới, sẽ xảy ra tình trạng ghi đè cài đặt, vui lòng lưu mã đồng bộ kịp thời;",
+  "sectionTwo": "2. Mã đồng bộ này là bằng chứng duy nhất để chuyển tài khoản, vui lòng giữ nó đúng cách để tránh bị mất;",
+  "sectionThree": "3. Nếu không thể chuyển tài khoản, bạn có thể nhấp vào biểu tượng CSKH trong trò chơi để liên hệ với bộ phận CSKH.",
+  "ClickgetMigration": "Vui lòng bấm vào để lấy mã đồng bộ",
+  "getMigration": "Nhận mã đồng bộ",
+  "copy": "Sao chép",
+  "copySuccess": "Mã đồng bộ đã được sao chép, có thể đến để dán",
+  "loginError": "Hết thời gian đăng nhập, vui lòng đăng nhập lại",
+  "LinkExpired":"Link đã vô hiệu ",
+  "tip":"Nhắc nhờ",
+  "confirm":"Xác nhận "
+}
